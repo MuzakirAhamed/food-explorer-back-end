@@ -1,7 +1,7 @@
 const User = require("../models/UserModel");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
-const cookieParser = require("cookie-parser");
+// const cookie = require("cookie-parser");
 exports.signup = async (req, res) => {
   try {
     const newUser = await User.create({
