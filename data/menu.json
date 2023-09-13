@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based curry with chicken",
+    "price": 200,
+    "category": "Curry"
+  },
+  {
+    "name": "Biryani",
+    "description": "Fragrant rice dish with spices and choice of meat",
+    "price": 150,
+    "category": "Rice"
+  },
+  {
+    "name": "Paneer Tikka",
+    "description": "Grilled cottage cheese with spices",
+    "price": 100,
+    "category": "Appetizer"
+  },
+  {
+    "name": "Naan Bread",
+    "description": "Soft and fluffy Indian flatbread",
+    "price": 30,
+    "category": "Bread"
+  },
+  {
+    "name": "Samosa",
+    "description": "Deep-fried pastry filled with spiced potatoes",
+    "price": 25,
+    "category": "Appetizer"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "description": "Marinated chicken cooked in a tandoor oven",
+    "price": 250,
+    "category": "Grilled"
+  },
+  {
+    "name": "Chana Masala",
+    "description": "Spicy chickpea curry",
+    "price": 170,
+    "category": "Curry"
+  },
+  {
+    "name": "Raita",
+    "description": "Yogurt with cucumber and spices",
+    "price": 180,
+    "category": "Side Dish"
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Sweet fried dough balls in syrup",
+    "price": 100,
+    "category": "Dessert"
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "Refreshing yogurt-based drink with mango",
+    "price": 75,
+    "category": "Beverage"
+  }
+]
