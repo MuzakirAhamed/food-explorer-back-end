@@ -10,6 +10,7 @@ const cors = require('cors')
 const app = express();
 const database = process.env.DATABASE;
 app.use(cors())
+app.options('*',cors())
 app.use(morgan('dev'))
 app.use(express.json())
 app.use('/',dataroutes)
